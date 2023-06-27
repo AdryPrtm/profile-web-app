@@ -1,6 +1,10 @@
 runtime: python27
 api_version: 1
 threadsafe: true
+bootstrap_version: 3.0.0
+
+stylesheets:
+    - http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css
 
 handlers:
     - url: /
